@@ -23,7 +23,9 @@
                  [luminus-nrepl "0.1.4"]
                  [org.webjars/webjars-locator-jboss-vfs "0.1.0"]
                  [luminus-immutant "0.2.2"]
-                 [buddy/buddy-auth "1.1.0"]]
+                 [buddy/buddy-auth "1.1.0"]
+                 [com.taoensso/carmine "2.14.0"]
+                 [com.stuartsierra/component "0.3.1"]]
 
   :min-lein-version "2.0.0"
 
